@@ -1,4 +1,4 @@
-# Hi, I'm Dinesh Gopi Sunkara
+# Hi, I'm Dineshgopi Sunkara
 
 Automation Engineer with a Master's degree in Computer Science from Pace University.
 
@@ -11,11 +11,19 @@ I build practical automation and AI-assisted tools designed to simplify everyday
 - Practical productivity tools
 - Reliable web application deployment
 
-## Featured project
+## Featured projects
 
-### Pilot
+### [AdForge](https://adforge-sunkara.vercel.app)
+Automated social media ad packs for Reels, TikTok, and Shorts.
 
-A free hub of practical tools for communication, business writing, resumes, and message analysis.
+### [AI research floor](https://sunkara1111.github.io/ai-hedge-fund/)
+Educational multi-agent market analysis system (paper / research only).
+
+### [DGS AI](https://sunkara1111.github.io/dgs-ai/)
+Experimental AI system exploring trading-first and work workflows.
+
+### [Client Kickoff System](https://github.com/sunkara1111/client-kickoff-system-free)
+Free templates that automate project kickoff workflows.
 
 ## Connect
 
